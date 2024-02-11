@@ -1,0 +1,10 @@
+pyrogram
+tgcrypto
+asyncio
+pyromod
+string
+jdatetime
+datetime
+matplotlib
+collections
+apscheduler
